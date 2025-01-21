@@ -1,4 +1,4 @@
-$$3$$
+$$\sqrt{3x-1}+(1+x)^2$$
 
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="https://media.tenor.com/aPaC5UXP-BUAAAAi/yiikapostmodrenrpg-yiik.gif">
