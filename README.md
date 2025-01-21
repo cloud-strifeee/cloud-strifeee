@@ -2,6 +2,7 @@ g
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="https://media.tenor.com/aPaC5UXP-BUAAAAi/yiikapostmodrenrpg-yiik.gif">
  <source media="(prefers-color-scheme: light)" srcset="https://media.tenor.com/aPaC5UXP-BUAAAAi/yiikapostmodrenrpg-yiik.gif">
+ <img alt="sdfsfsdf" src="https://media.tenor.com/aPaC5UXP-BUAAAAi/yiikapostmodrenrpg-yiik.gif">
 </picture>
 <!--
 **cloud-strifeee/cloud-strifeee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
