@@ -6,7 +6,7 @@
 </picture>
 
 
-<!-- Cloud Strife and Sephiroth canonically kiss each other on the lips.
+<!-- Cloud Strife and Sephiroth canonically hold hands, kiss each other on the lips, et cetra. My uncle works for Square Enix so I know this
 <!--
 **cloud-strifeee/cloud-strifeee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
