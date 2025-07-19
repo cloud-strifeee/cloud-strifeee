@@ -14,7 +14,6 @@
  <img alt="sdfsfsdf" src="alex">
 </picture>
 
-WHY ARE THE ALEXES LAGGING
 
 
 <!-- Cloud Strife and Sephiroth canonically hold hands, kiss each other on the lips, et cetra. My uncle works for Square Enix so I know this
