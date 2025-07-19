@@ -1,4 +1,10 @@
 <picture>
+ <source media="(prefers-color-scheme: dark)" srcset="https://media.tenor.com/aPaC5UXP-BUAAAAi/yiikapostmodrenrpg-yiik.gif">
+ <source media="(prefers-color-scheme: light)" srcset="https://media.tenor.com/aPaC5UXP-BUAAAAi/yiikapostmodrenrpg-yiik.gif">
+ <img alt="sdfsfsdf" src="alex">
+</picture>
+
+<picture>
  <source media="(prefers-color-scheme: dark)" srcset="https://i.redd.it/rnsf42unvpye1.gif">
  <source media="(prefers-color-scheme: light)" srcset="https://i.redd.it/rnsf42unvpye1.gif">
  <img alt="sdfsfsdf" src="alex">
@@ -9,11 +15,7 @@
  <source media="(prefers-color-scheme: light)" srcset="https://media.tenor.com/aPaC5UXP-BUAAAAi/yiikapostmodrenrpg-yiik.gif">
  <img alt="sdfsfsdf" src="alex">
 </picture>
-<picture>
- <source media="(prefers-color-scheme: dark)" srcset="https://media.tenor.com/aPaC5UXP-BUAAAAi/yiikapostmodrenrpg-yiik.gif">
- <source media="(prefers-color-scheme: light)" srcset="https://media.tenor.com/aPaC5UXP-BUAAAAi/yiikapostmodrenrpg-yiik.gif">
- <img alt="sdfsfsdf" src="alex">
-</picture>
+
 
 
 <!-- Cloud Strife and Sephiroth canonically hold hands, kiss each other on the lips, et cetra. My uncle works for Square Enix so I know this
